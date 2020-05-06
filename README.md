@@ -58,7 +58,7 @@ php bin/hyperf.php start
 
 ### 前端项目
 
-项目地址：https://github.com/falys/management.git
+项目地址：https://github.com/falys/vue-manage
 
 **初始化依赖**
 
