@@ -47,7 +47,7 @@ JWT_ALG=HS256
 **项目根目录下运行迁移(根目录下放置了初始化数据文件)**
 
 ```php
-php bin/hyperf.php migrate
+导入sql脚本
 ```
 
 **启动项目(根目录下运行)**
